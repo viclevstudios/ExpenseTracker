@@ -10,7 +10,6 @@ import MonthlyPage from './pages/MonthlyPage'
 import ExpensesPage from './pages/ExpensesPage'
 
 function App() {
-
   return (
     <Routes>
       <Route path="/" element={<Homepage />}></Route>
